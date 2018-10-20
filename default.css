@@ -15,7 +15,7 @@ a:hover{
 
 #oblig {
 	font-size: 0.8em;
-	padding-top: 165px;
+	padding-top: 90px;
 }
 
 body{
@@ -93,9 +93,48 @@ div#bilder{
 	padding:20px;
 }
 
+div#haupt_datenschutz {
+	font-size:0.8em;
+	clear:both;
+	float: left;
+	width: 960px;
+	padding:20px;
+}
+
+div#haupt_impressum {
+	font-size:0.8em;
+	clear:both;
+	float: left;
+	width: 460px;
+	height: 220px;
+	padding:20px;
+}
+
+div#haupt_kontakt {
+	clear:both;
+	float: left;
+	width: 960px;
+	padding:20px;
+	text-align: center;
+}
+
 div#footer {
 	clear:both;
 	text-align: center;
 	border-top: solid 2px;
 	color: #339999;
 }
+
+ul#footerList {
+	list-style: none;
+	width: 320px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+}
+
+ul#footerList li{
+	float: left;
+	text-decoration: none;
+	text-align: center;
+	width: 200px;
