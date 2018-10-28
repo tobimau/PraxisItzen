@@ -58,12 +58,13 @@ div#nav {
 	height: 40px;
 	color: #339999;
 	border-bottom: solid 2px;
+
 }
 
 ul#navList {
 	font-size: 1.5em;
 	list-style: none;
-	width: 450px;
+	width: 810px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 0px;
@@ -73,7 +74,7 @@ ul#navList li{
 	float: left;
 	text-decoration: none;
 	text-align: center;
-	width: 150px;
+	width: 270px;
 }
 
 div#haupt {
@@ -99,6 +100,7 @@ div#haupt_datenschutz {
 	float: left;
 	width: 960px;
 	padding:20px;
+	height:1440px;
 }
 
 div#haupt_impressum {
@@ -115,6 +117,7 @@ div#haupt_kontakt {
 	float: left;
 	width: 960px;
 	padding:20px;
+	height: 280px;
 	text-align: center;
 }
 
@@ -127,7 +130,7 @@ div#footer {
 
 ul#footerList {
 	list-style: none;
-	width: 320px;
+	width: 540px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 0px;
@@ -137,4 +140,4 @@ ul#footerList li{
 	float: left;
 	text-decoration: none;
 	text-align: center;
-	width: 200px;
+	width: 270px;
